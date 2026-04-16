@@ -1,0 +1,13 @@
+{
+  "name": "mj-pt-marketplace",
+  "owner": {
+    "name": "hong-minji"
+  },
+  "plugins": [
+    {
+      "name": "mj-pt",
+      "source": "./",
+      "description": "HTML 프레젠테이션 슬라이드 + 발표자 뷰를 자동 생성하는 스킬"
+    }
+  ]
+}
