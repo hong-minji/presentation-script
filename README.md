@@ -9,13 +9,13 @@ Claude Code에서 `/mj-pt`로 호출하는 HTML 프레젠테이션 생성 스킬
 ## 설치
 
 ```bash
-claude mcp add-skill https://github.com/hong-minji/presentaion-script
+claude mcp add-skill https://github.com/hong-minji/presentation-script
 ```
 
 또는 Claude Code 안에서:
 
 ```
-/install-skill https://github.com/hong-minji/presentaion-script
+/install-skill https://github.com/hong-minji/presentation-script
 ```
 
 ---
@@ -92,7 +92,7 @@ AI 에이전트 소개 발표 자료를 30분 분량으로 만들어줘
 ## 파일 구조
 
 ```
-presentaion-script/
+presentation-script/
 ├── SKILL.md                                # 스킬 정의 (Claude Code가 읽는 파일)
 ├── references/
 │   ├── slide-components.md                 # 슬라이드 CSS + 컴포넌트 레퍼런스
